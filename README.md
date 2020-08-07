@@ -1,2 +1,2 @@
 # RestaurantReview
-Implemented the sentiment analysis of restaurant reviews using Python. Classified the tweets as positive or negative using Naïve Bayes Classifier.   
+Implemented the sentiment analysis of restaurant reviews using Python. Classified the reviews as positive or negative using Naïve Bayes Classifier.   
